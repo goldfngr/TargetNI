@@ -1,0 +1,58 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+
+.services,  
+.products,
+.team,
+.sign-up {
+  height: 90vh;
+  text-align: left;
+  font-size: 1.2rem;
+  background: transparent;
+}
+
+.container {
+    margin-right: auto;
+    margin-left:  auto;
+    margin-top: 2em;
+    max-width: 1020px;
+    padding-right: 0;
+    padding-left:  0;
+    border: px solid red;
+}
+
+  h1 {
+      font-size: 2em;
+      font-weight:100;
+      text-align: left;
+      /* padding-bottom:1em; */
+  }
+   .card-title a  {
+      text-decoration: none;
+      color: red;
+      font-weight: 100;
+      color:darkorchid;
+  }
+
+  h3 {
+    font-size: 1.1em;
+    font-weight:200;
+    text-align: left;
+    padding-bottom:.5em;
+  }
+  p {
+    font-size: 1em;
+  }
+  ul {
+      list-style-type: square;
+      margin-left: 3em;
+  }
+  li {
+      font-size: 1.1em;
+      margin-bottom: .25em;
+  }
